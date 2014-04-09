@@ -1,0 +1,118 @@
+#logo {
+    width:550px;
+    margin:auto;
+    position:relative;
+    top:150px;
+}
+
+#logo img {
+    display:block;
+    margin:auto;
+    width:350px;
+    height: 135px;
+}
+
+#search {
+    width:550px;
+    padding:5px;
+    margin:5px;
+
+}
+
+
+.buttons {
+    position:relative;
+    background-color:#A4A4A4;
+    padding:8px;
+    margin:15px;
+    font-weight:bold;
+    left:150px;
+    border:solid 0px;
+    border-radius:5px;
+}
+
+#signin_button {
+    margin:47px 32px 0px 0px;
+    width:100%;
+    background-color:;
+    text-align:right;
+    height:27px;
+}
+
+#signin {
+    position:relative;
+    background-color:#d14836;
+    padding:5px;
+    right:50px;
+    width:80px;
+    border-radius:5px;
+    font-family:arial;
+    color:white;
+    border:1px solid;
+}
+
+#header ul {
+    margin-top:5px;
+    margin-left:0;
+}
+
+#header ls {
+    display:inline;
+    left:0;
+    top:0;
+    padding:5px 8px 5px 8px;
+}
+
+#header ls a {
+    text-decoration:none;
+    font-family:Arial;
+    font-size:13px;
+    font-weight:bold;
+    color:#bbbbbb;
+}
+
+#header ls a:hover{
+    color:white;
+}
+
+#header {
+    position:fixed;
+    top:0;
+    left:0;
+    height:30px;
+    width:100%;
+    background-color:#2d2d2d;
+}
+
+#footer {
+    position:fixed;
+    height:30px;
+    background-color:eeeeee;
+    bottom:0;
+    left:0;
+    width:100%;
+    border-top:1px rgba(0,0,0,0.1) solid;
+}
+
+#footer ul ls {
+    margin-bottom:5px;
+    display:inline;
+    padding:5px 8px 5px 8px;
+}
+
+#footer ul {
+    margin-top:5px;
+    margin-right:0;
+    text-align:right;
+}
+
+#footer ls a {
+    text-decoration:none;
+    font-family:Arial;
+    font-size:13px;
+    color:#666666;
+}
+
+#footer ls a:hover{
+    text-decoration:underline;
+}
